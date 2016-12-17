@@ -1,7 +1,7 @@
 (function () {
   /**
    * @module App
-   * @description A Pricewaterhouse Coopers Internal Application for Ticket Management
+   * @description A sample ionic template
    *
    * @requires ionic
    * @requires ngCordova
